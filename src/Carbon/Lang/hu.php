@@ -21,7 +21,7 @@ return array(
     'month'     => '1 hónappal|:count hónappal',
     'week'      => '1 héttel|:count héttel',
     'day'       => '1 nappal|:count nappal',
-    'hour'      => '1 órával|:count órával',
+    'hour'      => '1 órá|:count órá',
     'minute'    => '1 perccel|:count perccel',
     'second'    => '1 másodperccel|:count másodperccel',
     'ago'       => ':time korábban',
