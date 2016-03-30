@@ -17,15 +17,15 @@
  * Extracted from https://github.com/jenssegers/laravel-date/blob/master/src/lang/hu/date.php
  */
 return array(
-    'year'      => '1 évvel|:count évvel',
-    'month'     => '1 hónappal|:count hónappal',
-    'week'      => '1 héttel|:count héttel',
-    'day'       => '1 nappal|:count nappal',
-    'hour'      => '1 órával|:count órával',
-    'minute'    => '1 perccel|:count perccel',
-    'second'    => '1 másodperccel|:count másodperccel',
+    'year'      => '1 év|:count év',
+    'month'     => '1 hónap|:count hónap',
+    'week'      => '1 hét|:count hét',
+    'day'       => '1 nap|:count nap',
+    'hour'      => '1 óra|:count óra',
+    'minute'    => '1 perc|:count perc',
+    'second'    => '1 másodperc|:count másodperc',
     'ago'       => ':time korábban',
     'from_now'  => ':time később',
-    'after'     => ':time később',
-    'before'    => ':time korábban'
+    'after'     => ':time utána',
+    'before'    => ':time előtte'
 );
